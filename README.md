@@ -1,2 +1,3 @@
 # actividadHockey
-Desafio integrador para curso Quality Control Automation
+
+Aqui hay que cambiar el contenido por el que esta en el proyecto de hockey
